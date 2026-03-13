@@ -621,11 +621,7 @@ body {
     align-items: center;
 }
 
-@media (min-width: 781px) and (max-width: 1100px) {
-    .advantages-grid {
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
+
 
 @media (min-width: 1101px) {
     .advantages-grid {
